@@ -1,6 +1,6 @@
 # vue-next [![CircleCI](https://circleci.com/gh/vuejs/vue-next.svg?style=svg&circle-token=fb883a2d0a73df46e80b2e79fd430959d8f2b488)](https://circleci.com/gh/vuejs/vue-next)
 
-## Status: Alpha.
+## Status: Alpha. 
 
 The current codebase has basic feature parity with v2.x, together with the changes proposed in [merged RFCs](https://github.com/vuejs/rfcs/pulls?q=is%3Apr+is%3Amerged+label%3A3.x). There is a simple webpack-based setup with Single-File Component support available [here](https://github.com/vuejs/vue-next-webpack-preview).
 
